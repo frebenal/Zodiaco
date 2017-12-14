@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Horoscopo</string>
+    <string name="titulo">LOGIN</string>
+    <string name="login">Ingresar</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="signo">Signo Zodiacal</string>
+    <string name="acuario">acuario</string>
+    <string name="piscis">piscis</string>
+    <string name="aries">aries</string>
+    <string name="tauro">tauro</string>
+    <string name="geminis">geminis</string>
+    <string name="cancer">cancer</string>
+    <string name="leo">leo</string>
+    <string name="virgo">virgo</string>
+    <string name="libra">libra</string>
+    <string name="escorpio">escorpion</string>
+    <string name="sagitario">sagitario</string>
+    <string name="capricornio">capricornio</string>
+    <string name="dia">Día</string>
+    <string name="meszo">Mes</string>
+    <string name="aceptar">Aceptar</string>
+
+</resources>
